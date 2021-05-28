@@ -2,7 +2,7 @@
 
 - Node installed globally: install it from : https://nodejs.org/en/
 - Npm installed: run this in terminal: ```npm install -g npm```
--
+
 # How to run tests locally
 - First run ```npm install```
 ### Interactive mode
