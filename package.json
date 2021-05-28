@@ -1,0 +1,26 @@
+{
+  "name": "thinkmoney",
+  "version": "1.0.0",
+  "description": "thinkmoney cypress tests for technical interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "headless":"cypress run -s\"cypress/integration/login_spec.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simontestanalyst/ThinkMoney.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Simon O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simontestanalyst/ThinkMoney/issues"
+  },
+  "homepage": "https://github.com/simontestanalyst/ThinkMoney#readme",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
