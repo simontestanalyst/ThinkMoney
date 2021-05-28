@@ -1,0 +1,5 @@
+{
+    "acceptCookie": "#onetrust-accept-btn-handler",
+    "h1Message":"Digital banking for everyone",
+    "logInButton":"[data-e2e=login-d]"
+}
